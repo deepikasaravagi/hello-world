@@ -1,2 +1,4 @@
 # hello-world
-I want to test github
+My first repository on github
+
+I love :coffee: :pizza: and :dancer:.
